@@ -1,0 +1,4 @@
+@import '../plugins/pg-calendar/css/pignose.calendar.min.css';
+@import '../plugins/chartist/css/chartist.min.css';
+@import '../plugins/chartist-plugin-tooltips/css/chartist-plugin-tooltip.css';
+@import 'style.css';
